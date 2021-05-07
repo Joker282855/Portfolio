@@ -1,16 +1,26 @@
+:root {
+    --dark: darkblue;
+    --light: whitesmoke;
+    --sky: skyblue;
+    --pitch: black;
+    --sunny: yellow;
+    --cyan: cyan;
+    --blue: blue;
+
+}
 * {
     box-sizing: border-box;
     margin: 0px;
     padding: 0px;
 }
 body {
-    background-color: skyblue;
+    background-color: var(--sky);
 }
 header {
     padding: 25px;
     font-family: Arial, Helvetica, sans-serif;
-    background-color:darkblue;
-    color: whitesmoke;
+    background-color: var(--dark);
+    color: var(--light);
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
@@ -38,18 +48,18 @@ header nav ul li {
    padding: 10px;
 }
 header nav ul li a {
-    color:whitesmoke;
+    color: var(--light);
     text-decoration: none;
     font-size: 1.50vw;
 }
 header nav ul li a:hover {
-    color: black;
-    background-color: yellow;
+    color: var(--pitch);
+    background-color: var(--sunny);
     text-shadow: none;
     border-radius: 15px;
 }
 header nav ul li a:focus {
-    color: cyan;
+    color: var(--cyan);
 }
 .me {
     width: 100%;
@@ -92,7 +102,7 @@ header nav ul li a:focus {
     font-size: 12px;
 }
 .list ul li:hover {
-    color: blue;
+    color: var(--blue);
 }
 .work h2 {
     text-align: center;
@@ -130,12 +140,12 @@ header nav ul li a:focus {
     font-size: 16px;
 }
 .me p:first-letter {
-    color: blue;
+    color: var(--blue);
     font-size: 16px;
 }
 footer {
-    color: whitesmoke;
-    background-color: darkblue;
+    color: var(--light);
+    background-color: var(--dark);
     display: flex;
     flex-wrap: wrap;
     justify-content: center;  
