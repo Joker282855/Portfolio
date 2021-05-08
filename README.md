@@ -9,13 +9,39 @@
 6. When the image is resized or set to different viewports it shows responsive design
 
 ## Tasks Achieved by
-1. Revewing the lessons in module number 2
-2. Implementing the different tags I leanred to the HTML file and CSS stylesheet
-3. Using flex prpoperities along with media queries and pseudo elements
-4. following the acceptance criteria
+<ul> 
+    <li>
+    Revewing the lessons in module number 2
+    </li>
+    <li>
+    Implementing the different tags I leanred to the HTML file and CSS stylesheet
+    </li>
+    <li>
+    Using flex prpoperities along with media queries and pseudo elements
+    </li>
+    <li>
+    following the acceptance criteria
+    </li>
+</ul>
 
 ## Link to Website
 <a href="https://joker282855.github.io/Portfolio/">Portfolio Website</a>
 
 ## Screenshot of Website
-<img src="">
+<img src="./assets/images/Screen-of-portfolio.jpg" alt="screenshot of portfolio" />
+
+## Built With
+<ul>
+    <li>
+    HTML
+    </li>
+    <li>
+    CSS
+    </li>
+    <li>
+    Advanced CSS
+    </li>
+</ul>
+
+## Contributors
+Made with ❤️ by Josh Jackson
