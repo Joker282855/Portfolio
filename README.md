@@ -28,7 +28,7 @@
 <a href="https://joker282855.github.io/Portfolio/">Portfolio Website</a>
 
 ## Screenshot of Website
-<img src="./assets/images/Screen-of-portfolio.jpg" alt="screenshot of portfolio" />
+<img src="./assets/images/Screen.jpg" alt="screenshot of portfolio" />
 
 ## Built With
 <ul>
