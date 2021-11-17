@@ -1,4 +1,5 @@
-## Weekly 2 Challenge
+## Portfolio
+Portoflio is my personal potfolio that talks a little about myself, highlights past projects I had done before starting the bootcamp and lists my personal contact informaiton.
 
 ## Assignment Tasks
 1. create a Portfolio from scratch with no source code given
