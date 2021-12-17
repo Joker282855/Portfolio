@@ -11,9 +11,9 @@ The software that needs to be on the computer to access this website is an Inter
 - <a href="https://www.google.com/chrome/">Google Chrome Download</a>
 - <a href="https://code.visualstudio.com/docs/setup/setup-overview">Visual Studio Code</a>
 
-After getting visual studio code downloaded the source code needs to be downloaded from my github repository. Make sure to clone the code from my github respository in visual studio codes terminal. The link to the repository is listed below.
+The next thing to do is to clone the source code from my github repository. Make sure to clone the code from my github respository in visual studio codes terminal. The link to the repository is listed below.
 - <a href="https://github.com/Joker282855/Portfolio">Github Repository</a>
-Click on the green code button at the top right of the repository to get the link for the code. Copy the https option for the link and type the command git clone in the terminal.
+Click on the green code button at the top right of the repository to get the link for the code. Copy the https option for the link and type the command git clone in the terminal. Paste the link in the terminal after typing git clone and press enter to download the code.  All that is left to do after cloning down the code is to open the index.html and double click
 
 # Challenge Tasks:
 1. create a Portfolio from scratch with no source code given
