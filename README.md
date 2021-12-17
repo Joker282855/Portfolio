@@ -7,13 +7,13 @@ My first job as a full stack web developer with emphasis in backend end web deve
 Since this challenge did not involve using a database I used the index.htlm file to organize the layout of the portfolio. The stye.css file was used to implement the design elements that are aparrent when viewing my protfolio and to make it user responsive for ipads/phones. I was able to make the portfolio user friendly by using media queires on the CSS file. The portfolio is designed with a header at the top that has my name and links to the different sections of the portfolio. The sections of the portfolio are an about me section, my work, and contact information. The about me section has a picture of myself and a few paragraphs that describe my hobbies, intrests, and facts about my family. My work section highlights the different projects along with challenges that highlihgt my skills at using different tools to make frontend websites or fullstack applications. The contact information section has the information a person can use to get in touch with me if they like the work showcased on my portfolio. 
 
 # Running the Website:
-The software that needs to be on the computer to access this website is an Internet browser like Google Chrome, and Visual Studio Code. The links for the downloads are listed below.
+The software that needs to be on the computer to access this website is an Internet browser like Google Chrome, and Visual Studio Code. Make sure to have the terminal in visual studio code open before copying the link for the code. The links for the downloads are listed below.
 - <a href="https://www.google.com/chrome/">Google Chrome Download</a>
 - <a href="https://code.visualstudio.com/docs/setup/setup-overview">Visual Studio Code</a>
 
-The next thing to do is to clone the source code from my github repository. Make sure to clone the code from my github respository in visual studio codes terminal. The link to the repository is listed below.
+The next thing to do is to clone the source code from my github repository. The link to the repository is listed below.
 - <a href="https://github.com/Joker282855/Portfolio">Github Repository</a>
-Click on the green code button at the top right of the repository to get the link for the code. Copy the https option for the link and type the command git clone in the terminal. Paste the link in the terminal after typing git clone and press enter to download the code.  All that is left to do after cloning down the code is to open the index.html and double click
+Click on the green code button at the top right of the repository to get the link for the code. Copy the https option for the link and type the command git clone in the terminal. Paste the link in the terminal after typing git clone and press enter to download the code.  All that is left to do after cloning down the code is to open the index.html and double click to pull up a menu with the open to open the webiste in the computers defualt browser.
 
 # Challenge Tasks:
 1. create a Portfolio from scratch with no source code given
