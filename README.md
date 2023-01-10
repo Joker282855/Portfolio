@@ -4,6 +4,7 @@
 - [Website Description](#website-description)
 - [Website Organization](#website-organization)
 - [Running The Website](#running-the-website)
+- [Viewing Application Links](#viewing-application-links)
 - [Challenge Tasks](#challenge-tasks)
 - [Challenge Tasks Achieved By](#challenge-tasks-achieved-by)
 - [Website Link](#website-link)
