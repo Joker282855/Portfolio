@@ -130,9 +130,10 @@ header nav ul li a:focus {
 }
 .me h2 {
     font-family: Arial, Helvetica, sans-serif;
-    padding-left: 30px;
+    padding-right: 30px;
     margin-bottom: 25px;
     text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    text-align: center;
 }
 .me p {
     font-family: Arial, Helvetica, sans-serif;
@@ -186,10 +187,19 @@ footer {
     }
     header nav ul li a {
         font-size: 3.15vw;
+        margin-right: 25px;
+    }
+    .contact {
+        margin: 0px;
+        padding: 0px;
+    }
+    .list ul {
+        margin-right: 10px;
     }
     .list ul li {
         display: inline-block;
-        font-size: 1.10vw;
+        font-size: 2.30vw;
+        margin-right: 25px;
     }
     .picture {
         display: inline-block;
@@ -197,5 +207,9 @@ footer {
     .me img {
         width: 200px;
         height: 180px;
+        margin-left: 15px;
+    }
+    .me p {
+        margin-right: 28px;
     }
 } 
