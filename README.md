@@ -26,6 +26,18 @@ The next thing to do is to clone the source code from my github repository. The 
 - <a href="https://github.com/Joker282855/Portfolio">Github Repository</a>
 Click on the green code button at the top right of the repository to get the link for the code. Copy the https option for the link and type the command git clone in the terminal. Paste the link in the terminal after typing git clone and press enter to download the code.  All that is left to do after cloning down the code is to open the index.html and double click to pull up a menu with the open to open the webiste in the computers defualt browser.
 
+# Viewing Application Links
+The second and third example's in the section titled my work can not be viewed directly at the moment. The reason why both of these examples can not ve viewed right now is because
+Heroku just updated their policy which states that it no longer supports free dynos for free which are the primary port for both applications. I am saving up for an engagement ring
+currently and can not afford to update my policy at the moment. In order to view each application a person must clone each repository through Visual Studio Code. Look at the section
+about for the steps needed to clone the repositories for each application. The links to each repository are listed below
+- <a href="https://github.com/JHardisty333/automatic-potato">Campfie Repository</a>
+- <a href="https://github.com/Luke-Munoz/recipeBook">Food Recipe Repository</a>
+
+After cloning the respositories all I person needs to do is run the commands in Visual Studio Code that makes each application start. The command for the Campfire Repository is 
+npm start. After typing npm start type http://localhost:3001 in your personal web browser. The command for the Food Recipe Repository is npm run deploy and will automatically
+bring up the applicaiton. 
+
 # Challenge Tasks:
 1. create a Portfolio from scratch with no source code given
 2. Portfolio needs to contain an picture of myself and links to sections about me, my work, and my contact information
